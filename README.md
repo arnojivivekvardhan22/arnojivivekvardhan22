@@ -1,6 +1,21 @@
 # 💫 About Me:
-Aspiring Data Analyst & Machine Learning Engineer | Python • SQL • Power BI • NLP • Predictive Analytics | Building data-driven solutions and AI-powered applications
+# Hi, I'm Arnoji Vivek Vardhan 👋
 
+🎓 B.Tech Information Technology Student (2022–2026)
+
+📊 Aspiring Data Analyst | Business Intelligence Analyst | AI/ML Enthusiast
+
+💻 Skilled in Python, SQL, Power BI, Tableau, Machine Learning, NLP, and Data Analytics
+
+🚀 Built projects in:
+- Disease Classification using ELECTRA & Ensemble Learning
+- Road Accident Prediction using Machine Learning
+- Retail Sales Analytics Dashboard
+- SQL-Based E-Commerce Analysis
+
+📈 Interested in Data Analytics, Business Intelligence, Machine Learning, and AI-powered solutions
+
+📫 Reach me at: arnojivivekvardhan@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arnoji-vivek-vardhan) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Arnoji Vivek vardhan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arnojivivekvardhan@gmail.com) 
