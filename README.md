@@ -9,6 +9,7 @@
 
 🚀 Built projects in:
 - Disease Classification using ELECTRA & Ensemble Learning
+- A/B Testing & Statistical Significance Analysis for Conversion Rate Optimization
 - Road Accident Prediction using Machine Learning
 - Retail Sales Analytics Dashboard
 - SQL-Based E-Commerce Analysis
